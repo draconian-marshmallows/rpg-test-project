@@ -1,3 +1,6 @@
 [submodule "Assets/DraconianMarshmallows/RpgFramework"]
 	path = Assets/DraconianMarshmallows/RpgFramework
 	url = https://github.com/draconian-marshmallows/RpgFramework.git
+[submodule "Assets/DraconianMarshmallows/DraconianUI"]
+	path = Assets/DraconianMarshmallows/DraconianUI
+	url = https://github.com/purple-movies/DraconianUI.git
